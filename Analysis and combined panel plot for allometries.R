@@ -2,6 +2,8 @@
 ###Removing any previously existing objects. This is useful if you are debugging or repeatedly running analysis, as it prevents
 rm(list=ls())
 
+
+###Adding commentary
 setwd("E://Dropbox/School/data, analyses/Butterfly comparative project/Spring 2016")  ###Setting drive to use
 setwd("C://Users/Owner/Dropbox/School/data, analyses/Butterfly comparative project/Spring 2016")  ###Setting drive to use
 
