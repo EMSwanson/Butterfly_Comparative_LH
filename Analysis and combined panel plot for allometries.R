@@ -3,7 +3,7 @@
 rm(list=ls())
 
 
-###Adding commentary
+###Adding commentary 2
 setwd("E://Dropbox/School/data, analyses/Butterfly comparative project/Spring 2016")  ###Setting drive to use
 setwd("C://Users/Owner/Dropbox/School/data, analyses/Butterfly comparative project/Spring 2016")  ###Setting drive to use
 
